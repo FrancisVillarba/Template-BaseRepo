@@ -18,3 +18,4 @@ When using this REPO, you will still need to do some customisations, these are a
 1. Update the README.md documentation
 2. Add additional project specific .gitignore'ed files
 3. Choose the correct license type & update any copyrights to be in-date & valid
+4. Add project specific security policy & changes to as required
