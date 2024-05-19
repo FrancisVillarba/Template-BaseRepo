@@ -1,6 +1,13 @@
 ## Custom Project Specific GitIgnore
 
 
+## Security Specific GitIgnore
+
+# Environment Files
+*.env
+.env
+*.env.*
+
 # Created by https://www.toptal.com/developers/gitignore/api/macos,windows,linux,intellij+all,intellij+iml,visualstudiocode,git
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,linux,intellij+all,intellij+iml,visualstudiocode,git
 
